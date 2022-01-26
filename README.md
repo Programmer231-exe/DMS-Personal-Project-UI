@@ -6,4 +6,9 @@ Progress: Initial Development
 
 ## Login Page :
 
-![/assets/images/Login_Page.jpeg]
+### Web Browser:
+![This is an image](https://github.com/Programmer231-exe/DMS-Personal-Project-UI/blob/master/assets/images/Login_Page.jpeg)
+
+### Mobile Browser:
+![This is an image](https://github.com/Programmer231-exe/DMS-Personal-Project-UI/blob/master/assets/images/Login_Page_mobile.jpg)
+
